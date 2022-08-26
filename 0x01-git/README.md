@@ -1,2 +1,2 @@
 my directory
-read.me file update
+read.me file updated
